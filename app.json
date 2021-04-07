@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "penna-project",
-    "slug": "penna-project",
+    "name": "shopping_list_firebase",
+    "slug": "shopping_list_firebase",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
